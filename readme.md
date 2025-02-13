@@ -22,7 +22,7 @@ effectively, and using Git for version control. Quick at learning and adapting t
 
 ---
 
-<img align="center" width="100%" height="400px" src="./image/coder-gif.png">
+<img align="center" width="100%" height="400px" src="./image/code-gif.png">
 
 ---
 
