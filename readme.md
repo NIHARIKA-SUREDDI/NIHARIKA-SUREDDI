@@ -32,7 +32,7 @@ effectively, and using Git for version control. Quick at learning and adapting t
 
   <div align="left">
 
-   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,github,vscode,)](#)
+   [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,github,vscode,postman,vercel)](#)
 
   </div>
 
